@@ -1,0 +1,36 @@
+month,category,account,amount_inr_lakhs
+2025-07,Revenue,Product Revenue,530.15
+2025-07,Revenue,Services Revenue,168.03
+2025-07,COGS,Cost of Goods Sold,-300.24
+2025-07,OPEX,Sales & Marketing,-115.35
+2025-07,OPEX,Research & Development,-92.98
+2025-07,OPEX,General & Administrative,-71.73
+2025-07,Other,Interest Expense,-12.66
+2025-08,Revenue,Product Revenue,489.93
+2025-08,Revenue,Services Revenue,178.03
+2025-08,COGS,Cost of Goods Sold,-289.59
+2025-08,OPEX,Sales & Marketing,-115.27
+2025-08,OPEX,Research & Development,-90.07
+2025-08,OPEX,General & Administrative,-65.36
+2025-08,Other,Interest Expense,-11.49
+2025-09,Revenue,Product Revenue,444.37
+2025-09,Revenue,Services Revenue,168.45
+2025-09,COGS,Cost of Goods Sold,-310.26
+2025-09,OPEX,Sales & Marketing,-112.99
+2025-09,OPEX,Research & Development,-87.33
+2025-09,OPEX,General & Administrative,-60.6
+2025-09,Other,Interest Expense,-11.64
+2025-10,Revenue,Product Revenue,545.11
+2025-10,Revenue,Services Revenue,179.49
+2025-10,COGS,Cost of Goods Sold,-300.95
+2025-10,OPEX,Sales & Marketing,-130.23
+2025-10,OPEX,Research & Development,-89.7
+2025-10,OPEX,General & Administrative,-67.33
+2025-10,Other,Interest Expense,-11.55
+2025-11,Revenue,Product Revenue,572.56
+2025-11,Revenue,Services Revenue,191.74
+2025-11,COGS,Cost of Goods Sold,-339.5
+2025-11,OPEX,Sales & Marketing,-158.66
+2025-11,OPEX,Research & Development,-94.98
+2025-11,OPEX,General & Administrative,-78.37
+2025-11,Other,Interest Expense,-12.39
